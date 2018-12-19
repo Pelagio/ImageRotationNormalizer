@@ -1,0 +1,22 @@
+{
+  "name": "image-rotation-normalizer",
+  "version": "1.0.0",
+  "description": "Small library to normalize image rotation based on EXIF orientation flag using HTMLCanvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Arneson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pelagio/ImageRotationNormalizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pelagio/ImageRotationNormalizer/issues"
+  },
+  "homepage": "https://github.com/Pelagio/ImageRotationNormalizer#readme",
+  "dependencies": {
+    "image-file-rotator": "git+https://github.com/Pelagio/ImageFileRotator.git"
+  }
+}
