@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Pelagio/ImageRotationNormalizer#readme",
   "dependencies": {
-    "image-file-rotator": "git+https://github.com/Pelagio/ImageFileRotator.git"
+    "image-file-rotator": "1.0.0"
   }
 }
